@@ -16,8 +16,8 @@ End the program.
 ### PROGRAM:
 python
 #Program to find the distance between two points.
-#Developed by: Mohammed Faizal J
-#RegisterNumber:22003412
+#Developed by: E VARSHA SHARON
+#RegisterNumber:22004867
 import math as m
 l1=[4,2]
 l2=[10,6]
@@ -28,7 +28,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![OUTPUT](cir.png)
+
 
 ### RESULT:
 Thus findings of distance between two points are successfully executed.
