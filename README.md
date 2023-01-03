@@ -29,6 +29,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
+![dist bet 2 pts](https://user-images.githubusercontent.com/98278161/210366164-a2c845eb-6c0a-4d3f-869a-83452b502731.png)
 
 
 ### RESULT:
